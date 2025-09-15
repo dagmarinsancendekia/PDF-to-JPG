@@ -1,2 +1,2 @@
 @echo off
-python gui.py
+py gui.py

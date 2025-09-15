@@ -1,6 +1,13 @@
 - [x] Create requirements.txt with dependencies
 - [x] Create main.py with conversion functions and CLI
 - [x] Create README.md with usage instructions
-- [ ] Initialize Git repository
-- [ ] Add GitHub remote origin
-- [ ] Commit and push to GitHub
+- [x] Initialize Git repository
+- [x] Add GitHub remote origin
+- [x] Commit and push to GitHub
+- [x] Create run.bat for easy execution
+- [x] Update Git with new file
+- [x] Create gui.py for graphical interface
+- [x] Update README with GUI instructions
+- [x] Create gui.bat
+- [x] Update Git with GUI files
+- [x] Test application (CLI help and GUI conversion)

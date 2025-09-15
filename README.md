@@ -5,7 +5,7 @@ A simple Python CLI application to convert PDF files to JPG images and JPG image
 ## Requirements
 
 - Python 3.x
-- Poppler (for pdf2image on Windows, download from https://blog.alivate.com.au/poppler-windows/ and add to PATH)
+- Poppler (required for PDF to JPG conversion on Windows; download from https://blog.alivate.com.au/poppler-windows/, extract, and add the `bin` folder to your system PATH)
 
 ## Installation
 
