@@ -22,9 +22,15 @@ A simple Python CLI application to convert PDF files to JPG images and JPG image
 
 ## Usage
 
+You can run the application using Python directly or use the provided `run.bat` for easier execution on Windows.
+
 ### Convert PDF to JPG
 ```
 python main.py pdf2jpg path/to/file.pdf output/directory
+```
+or
+```
+run.bat pdf2jpg path/to/file.pdf output/directory
 ```
 
 This will create JPG images for each page in the output directory.
@@ -32,6 +38,10 @@ This will create JPG images for each page in the output directory.
 ### Convert JPG to PDF
 ```
 python main.py jpg2pdf path/to/image1.jpg path/to/image2.jpg output.pdf
+```
+or
+```
+run.bat jpg2pdf path/to/image1.jpg path/to/image2.jpg output.pdf
 ```
 
 This will combine the JPG images into a single PDF file.
