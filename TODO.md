@@ -1,0 +1,6 @@
+- [x] Create requirements.txt with dependencies
+- [x] Create main.py with conversion functions and CLI
+- [x] Create README.md with usage instructions
+- [ ] Initialize Git repository
+- [ ] Add GitHub remote origin
+- [ ] Commit and push to GitHub
