@@ -57,7 +57,7 @@ python gui.py
 ```
 or
 ```
-gui.bat
+run.bat
 ```
 
 This will open a window with buttons to select files and perform conversions.
