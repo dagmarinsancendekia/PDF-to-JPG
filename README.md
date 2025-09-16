@@ -60,6 +60,9 @@ or
 run.bat
 ```
 
+<img width="980" height="513" alt="image" src="https://github.com/user-attachments/assets/f9074d6e-5417-43a4-801e-aad8fb9d8407" />
+
+
 This will open a window with buttons to select files and perform conversions.
 
 ## License
